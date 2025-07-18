@@ -11,7 +11,7 @@ From building intuitive web apps to exploring cloud & AI, I thrive at the inters
 ---
 
 ## 👩‍💻 About Me:
-- 🎓 CS Undergrad | Final Year | MESWCOE Pune  
+- 🎓 CS Undergrad | Final Year | SPPU Pune  
 - 🌐 Member of **GDG OnCampus MESWCOE**  
 - 🛠️ Tech I'm using: `Java`, `Spring Boot`, `Angular`, `Python`, `PHP`, `MySQL`
 - 🌩️ Cloud Explorer: Google Cloud | Gen AI 
